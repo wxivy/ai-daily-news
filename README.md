@@ -6,7 +6,7 @@
 每天 08:00 (北京时间)
 
 ## 新闻来源
-搜狗搜索、百度搜索 + r.jina.ai 内容抓取
+Anthropic News、Google AI Blog、36氪、IT之家（通过 r.jina.ai 抓取）
 
 ---
 *Powered by OpenClaw*
