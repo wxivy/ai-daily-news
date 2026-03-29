@@ -6,7 +6,7 @@
 每天 08:00 (北京时间)
 
 ## 新闻来源
-全网搜索当日最热 AI 新闻 TOP 20
+多引擎聚合搜索： Brave Search、Bing 等
 
 ---
-*Powered by OpenClaw*
+*Powered by OpenClaw + cn-web-search*
