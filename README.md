@@ -6,7 +6,7 @@
 每天 08:00 (北京时间)
 
 ## 新闻来源
-多引擎聚合搜索： Brave Search、Bing 等
+国内搜索（百度、搜狗、360）
 
 ---
-*Powered by OpenClaw + cn-web-search*
+*Powered by OpenClaw*
